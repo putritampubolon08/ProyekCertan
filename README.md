@@ -1,4 +1,7 @@
 # ProyekCertan
+Web Based Face Recognition Attendance System
+<br><br>
+
 Trainee 
 <br>
 12S20008 - Putri Tampubolon
